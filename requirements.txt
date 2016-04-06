@@ -1,0 +1,6 @@
+coverage
+xmlrunner
+pep8
+pyflakes
+pylint
+flake8
